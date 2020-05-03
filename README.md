@@ -2,7 +2,7 @@
 Cours de NSI
 
 Consultation des Jupyter Notebook de ce dépôt :
-https://nbviewer.jupyter.org/github/the-chimist/NSI_Premiere/master
+https://nbviewer.jupyter.org/github/the-chimist/NSI_Premiere/tree/master/
 
 Pour une utilisation interactive des fichiers Jupyter Notebook :
 
