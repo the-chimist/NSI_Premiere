@@ -10,5 +10,5 @@ Pour une utilisation interactive des fichiers Jupyter Notebook :
 
 ou
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/the-chimist/NSI_Premiere/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/the-chimist/NSI_Premiere/blob/master/)
 
