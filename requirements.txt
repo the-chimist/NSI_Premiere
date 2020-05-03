@@ -1,1 +1,8 @@
+tkinter==8.*
+random==*.*
+time==*.*
+numpy==1.16.*
+matplotlib==3.*
+seaborn==0.8.1
+pandas
 jupyter_contrib_nbextensions
